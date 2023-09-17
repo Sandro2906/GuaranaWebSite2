@@ -3,7 +3,7 @@ import HomeComponenImage from '../assets/slide_1_en_1681138103_JokerMango_cover_
 
 const HomeComponent = () => {
   return (
-    <div name="Home" className='w-full h-[700px] overflow-hidden'>
+    <div name="Home" className='w-full h-auto overflow-hidden'>
     <img className='w-full h-full object-cover' src={HomeComponenImage} alt='Home picture' />
     </div>
   )
