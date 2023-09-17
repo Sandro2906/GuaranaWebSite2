@@ -37,7 +37,7 @@ const NoSleep = () => {
     </div>
 
     <div className='w-full h-auto flex flex-col justify-center items-center'>
-    <div className='max-w-[500px] h-auto'>
+    <div className='max-w-[500px] px-7 h-auto'>
     <h1 className='text-8xl font-digital font-extrabold pt-7'>NO SLEEP FESTIVAL 2019</h1>
     </div>
 
@@ -46,7 +46,7 @@ const NoSleep = () => {
     <h1>SHARE: Facebook Twitter</h1>
     </div>
     
-    <div className='max-w-[500px] h-auto py-5 flex flex-col px-4'>
+    <div className='max-w-[500px] h-auto py-5 flex flex-col px-7'>
     <h1 className='py-10'>This year, the second edition of No Sleep Festival, exceeded the expectations of the organizers. Fans of electronic music from more than 40 countries gathered in Belgrade on a frantic weekend from November 8th to November 10th to see the shows of some of the most sought-after and significant names of the electronic scene in ten locations across the city. The Main Hangar at the Port of Belgrade, welcoming the greatest stars Amelie Lens, Bicep, Kobosil, the most visited and by far the largest festival location, was completely sold out on the first night and compared to last year, clubs in the capital city, such as Dragstor, 20/44, Half, Mladost, Gadost, Gajba, Dot, etc. were visited by even more people as well.</h1>
     <h1 className='pb-5'>The synergy of No Sleep awakened by the Guarana Beverages and the No Sleep Festival was not omitted this year either. No Sleep was there to provide extra energy to visitors so that they could enjoy the festival until the morning. The promotional team rewarded the most loyal fans with great gifts.</h1>
     </div>
