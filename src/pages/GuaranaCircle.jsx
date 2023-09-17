@@ -51,11 +51,11 @@ const GuaranaCircle = () => {
     
 
   return (
-    <div className='w-full h-auto flex flex-col md:flex-row px-24 py-10 justify-around items-center z-0 bg-gray-800'>
+    <div className='w-full h-auto flex flex-col md:flex-row px-24 py-10 justify-around items-center -z-20 bg-gray-800'>
    
     {data.map(({src, text, link, dataAos})=>(
         <Link to={link} data-aos={dataAos} >
-        <div className='flex flex-col items-center justify-center py-5 px-2'>
+        <div className='flex flex-col items-center justify-center py-5 px-2 -z-10'>
         <div className='w-36 h-36 border-green-400 border-4 rounded-full p-2 bg-gray-800'>
             <img src={src} className='object-cover rounded-full w-full h-full' />
         </div>
