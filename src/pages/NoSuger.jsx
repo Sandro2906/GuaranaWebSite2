@@ -13,7 +13,7 @@ const NoSuger = () => {
     </div>
 
     <div className='w-full h-auto flex flex-col justify-center items-center'>
-    <div className='max-w-[500px] h-auto'>
+    <div className='max-w-[500px] px-7 h-auto'>
     <h1 className='text-8xl font-digital font-extrabold pt-7'>Guarana Zero sugar free</h1>
     </div>
 
@@ -22,7 +22,7 @@ const NoSuger = () => {
     <h1>SHARE: Facebook Twitter</h1>
     </div>
     
-    <div className='max-w-[500px] h-auto py-5 flex flex-col p-4'>
+    <div className='max-w-[500px] h-auto py-5 flex flex-col px-7'>
     <h1 className='py-10'>What if we told you could live a sugar-free reality?
     Are you ready to live with #nofilter?
     Take off your pink glasses: it's time for you to foil without - for a night without sleep - for Guarana Zero without sugar!
