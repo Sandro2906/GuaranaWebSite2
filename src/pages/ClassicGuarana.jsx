@@ -19,7 +19,7 @@ const ClassicGuarana = () => {
 
   
     <div data-aos="fade-up" className='text-white w-[400px] h-full flex flex-col justify-center'>
-    <h1 className='text-5xl font-extrabold md:text-outline italic shadowtext2'>GUARANA
+    <h1 className='text-5xl md:text-8xl font-extrabold md:text-outline italic shadowtext2'>GUARANA
     ORIGINALC
     </h1>
  
