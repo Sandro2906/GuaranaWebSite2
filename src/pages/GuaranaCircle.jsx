@@ -51,7 +51,7 @@ const GuaranaCircle = () => {
     
 
   return (
-    <div className='w-full h-auto flex flex-col md:flex-row px-24 py-10 justify-around items-center bg-gray-800'>
+    <div className='w-full h-auto flex flex-col md:flex-row px-24 py-10 justify-around items-center z-0 bg-gray-800'>
    
     {data.map(({src, text, link, dataAos})=>(
         <Link to={link} data-aos={dataAos} >
