@@ -17,7 +17,7 @@ const Guarana = () => {
     <div className='flex w-full flex-grow md:flex-row flex-col-reverse md:justify-around justify-center items-center'>
 
   
-    <div data-aos="fade-up" className='text-white w-[400px] h-full flex flex-col justify-center'>
+    <div data-aos="fade-up" className='text-white w-[400px] h-full px-10 md:px-0 flex flex-col justify-center'>
     <h1 className='text-5xl md:text-8xl font-extrabold md:text-outline italic shadowtext2'>GUARANA
     APHRODISIAC
     </h1>
