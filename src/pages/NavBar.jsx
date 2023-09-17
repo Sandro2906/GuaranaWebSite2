@@ -66,7 +66,7 @@ const NavBar = () => {
 
       {tr && (
 
-        <ul data-aos="fade-down" className='flex flex-col items-center justify-center top-0 left-0 absolute w-full h-screen bg-lime-400'>
+        <ul data-aos="fade-down" className='flex flex-col items-center justify-center top-0 left-0 z-20 absolute w-full h-screen bg-lime-400'>
           <Link to='Home' onClick={closeMenu}>
             <li className='py-8 text-4xl cursor-pointer font-extrabold hover:text-white'>HOME</li>
           </Link>
