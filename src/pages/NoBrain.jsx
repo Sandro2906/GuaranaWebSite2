@@ -14,7 +14,7 @@ const NoBrain = () => {
     </div>
 
     <div className='w-full h-auto flex flex-col justify-center items-center'>
-    <div className='max-w-[500px] h-auto'>
+    <div className='max-w-[500px] px-3 h-auto'>
     <h1 className='text-8xl font-digital font-extrabold pt-7'>EXIT FESTIVAL 2019</h1>
     </div>
 
@@ -23,7 +23,7 @@ const NoBrain = () => {
     <h1>SHARE: Facebook Twitter</h1>
     </div>
     
-    <div className='max-w-[500px] h-auto py-5 px-4 flex flex-col'>
+    <div className='max-w-[500px] h-auto py-5 px-6 flex flex-col'>
     <h1 className='py-10'>Always ready to give its fans more, this time the Owl brought a very smart Owl - Guarana Brainer into its flock. Guarana Brainer is experienced, cunning, has skills and knows how to outsmart everyone. With the added Ginkgo Biloba extract and the well-known watermelon taste, it will support you whenever you need extra focus and memory. Just being awake is often not enough. You need to stay focused on the object of our attention. This is when Brainer steps in.</h1>
     <h1 className='pb-5'>This wicked can was designed by those who need to be alert and focused most - a team of four students. By participating in the Design Never Sleep competition organized by Metropolitan University, and under the Owl's eye, the Blue Pixel student team came up with a design solution for the Guarana Brainer can, and the Owl was more than happy to manufacture it.
     As of October 25th, Guarana Brainer is on the market accompanied with adequate support on Guarana social networks, and to hear the rest of the story - stay tuned.</h1>
