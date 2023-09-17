@@ -37,7 +37,7 @@ const Exit = () => {
     </div>
 
     <div className='w-full h-auto flex flex-col justify-center items-center'>
-    <div className='max-w-[500px] h-auto'>
+    <div className='max-w-[500px] px-7 h-auto'>
     <h1 className='text-8xl font-digital font-extrabold pt-7'>EXIT FESTIVAL 2019</h1>
     </div>
 
@@ -46,7 +46,7 @@ const Exit = () => {
     <h1>SHARE: Facebook Twitter</h1>
     </div>
     
-    <div className='max-w-[500px] h-auto py-5 flex flex-col md:p-0 p-3'>
+    <div className='max-w-[500px] h-auto py-5 flex flex-col md:p-0 px-7'>
     <h1 className='py-10'>The 19th EXIT festival was held at the well-known site of Petrovaradin Fortress, being visited by the record number of 200,000 visitors in four nights. With the historical edition of the festival, EXIT successfully completed the first of three very important years in a row for Novi Sad. During the 2019 campaign, the festival strongly promoted this year's title of Youth Capital of Europe, being a prelude to the 202nd year anniversary, when EXIT Festival will celebrate its 20th anniversary, whereby the edition of 2021 will be dedicated to the title of European Capital of Culture.
     With an interesting line up at the EXIT, Guarana once again prepared the brand activation and a zone which enabled visitors at the festival to have even more fun.</h1>
     <h1 className='pb-5'>In the Guarana Invaders Zone, everyone could compete, but also have fun playing the arcade game in the well-known Owl style. Teams competed with each other, and the best among them received exciting gifts to remember their favorite brand at their favorite festival.
