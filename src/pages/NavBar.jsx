@@ -15,7 +15,7 @@ const NavBar = () => {
  
 
   return (
-    <div className='w-full h-28 flex justify-between items-center py-4 bg-lime-400 z-30 overflow-hidden'>
+    <div className='w-full h-28 flex justify-between items-center py-4 bg-lime-400 z-50 overflow-hidden'>
       <div className='pl-10 cursor-pointer'>
         <img className='w-60 h-24' src={Logo} alt='Logo' />
       </div>
