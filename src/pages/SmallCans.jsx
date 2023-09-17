@@ -17,7 +17,7 @@ const SmallCans = () => {
     <div className='flex w-full flex-grow md:flex-row flex-col-reverse md:justify-around justify-center items-center'>
 
   
-    <div data-aos="fade-up" className='text-white w-[400px] h-full flex flex-col px-7 md:px-0 justify-center'>
+    <div data-aos="fade-up" className='text-white w-[400px] h-full flex flex-col px-10 justify-center'>
     <h1 className='text-5xl font-extrabold md:text-outline italic shadowtext2'>NEW MVP FLAVOR!
     MANGO WITH
     </h1>
